@@ -11,30 +11,28 @@
 ## Repository Structure
 
 ```
-.
 ├── assets/
+    ER_Diagram.jpg
+    RAG_Flowchart.jpg
 ├── docs/
+    Trafasa_Assessment_Doc.docx
+    Trafasa_Assessment_Doc.pdf
 ├── section_a/
+    q1_fetch_vendor_data.py
 ├── section_b/
+    q5_invoice_extraction.py
 └── README.md
 ```
 
 ---
 
-## Sections
+## Solutions Included
 
-### Section A
-- Question 1 – Python Fundamentals
-- Question 2 – SQL & Data Modeling
-- Question 3 – REST APIs & Git
-
-### Section B (AI / Data Engineering Track)
-- Question 4 – LLMs, RAG & Agents
-- Question 5 – Data Pipelines & Evaluation
+- Question 1 – Python Fundamentals (Section A)
+- Question 5 – Data Pipelines & Evaluation (Section B)
 
 ---
 
 ## Notes
 
-- This repository contains the source code and supporting files for the Trafasa Technology Round 1 Assessment.
-- The final submission PDF will be available in the `docs/` directory.
+- The remaining questions, solutions, diagrams, and explanations are included in the assessment document inside the `docs/` folder.
